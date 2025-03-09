@@ -1,0 +1,2 @@
+# Locations
+for nade helper
